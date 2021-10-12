@@ -1,0 +1,35 @@
+.bg-container {
+    height: 100vh;
+    padding-top: 120px;
+
+}
+
+.counter-container {
+    height: 500px;
+    width: 500px;
+    background-color: #f1f5f8;
+    text-align: center;
+    padding-top: 140px;
+
+}
+
+.headingcounter {
+    font-size: 60px;
+    color: black;
+
+}
+
+.headingcountervalue {
+    font-size: 80px;
+    color: black;
+}
+
+.button {
+    height: 50px;
+    font-size: 20px;
+    color: black;
+    width: 120px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
